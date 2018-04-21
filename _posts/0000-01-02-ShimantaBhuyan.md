@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+***Dreams without goals are only dreams. And they ultimately fuel disappointment.***
 Use the left arrow to go back!
